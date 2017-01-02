@@ -7,8 +7,7 @@
 #include <unistd.h>
 #include <string.h>
 
-#include "sds.h"
-#include "arrlist.h"
+#include "arraylist.h"
 
 #define RBUFSIZE (1024 * 100)
 #define DEBUG (1)

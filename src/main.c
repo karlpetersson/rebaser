@@ -1,5 +1,5 @@
 #include "parser.h"
-#include "arrlist.h"
+#include "arraylist.h"
 #include "commit.h"
 #include "gui.h"
 

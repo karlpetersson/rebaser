@@ -1,7 +1,7 @@
 #ifndef PARSER_H
 #define PARSER_H
 
-#include "arrlist.h"
+#include "arraylist.h"
 
 int 
 parse_git_todo(const char *path, struct arraylist *list);
